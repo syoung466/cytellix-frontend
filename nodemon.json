@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "adminuser1",
+    "JWT_KEY": "secret_hash_creation_password"
+  }
+}
